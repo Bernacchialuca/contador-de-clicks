@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+h1 {
+  padding-left: 2rem;
+}
 
 html, body {
   background-color: #060c35;
@@ -24,7 +27,7 @@ html, body {
 }
 
 .react-logo {
-  width: 100px;
+  width: 105px;
   height: 75px;
   padding-left: 20px;
 }

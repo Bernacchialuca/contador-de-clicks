@@ -20,7 +20,7 @@ const App = () => {
   return (
     <div className='App'>
        <div className='react-logo-contenedor'>
-        <h1>CONTADOR CON REACT</h1>
+        <h1>CONTADOR DE CLICKS CON REACT</h1>
         <img className='react-logo' src={logoReact} alt='react-logo'/>
       </div>
       <div className='contenedor-principal'>
